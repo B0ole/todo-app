@@ -1,0 +1,26 @@
+body{
+    background-color:white;
+}
+
+
+
+form{
+    
+    justify-content: flex-start;
+
+}
+
+div{
+    background-color:lightblue;
+    height: fit-content;
+    width: fit-content;
+}
+li{
+    background-color: blue;
+}
+
+input{
+    
+}
+
+
